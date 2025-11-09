@@ -3,5 +3,6 @@
         "editor.defaultFormatter": "jinxdash.prettier-rust"
     },
     "editor.tabSize": 4,
-    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "nixEnvSelector.nixFile": "${workspaceFolder}/flake.nix"
 }
